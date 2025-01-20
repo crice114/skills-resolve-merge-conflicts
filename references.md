@@ -1,0 +1,17 @@
+conflicting text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+commit message
